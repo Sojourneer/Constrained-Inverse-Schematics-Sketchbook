@@ -2,5 +2,5 @@
  Constrained Inverse schematics Processing.org Sketchbook.
  
  
- Based on the IK code demonstrated on the Programming Chaos channel: https://www.youtube.com/watch?v=NfuO66wsuRg
+ This is based on the IK code demonstrated on the Programming Chaos channel in an excellent video: https://www.youtube.com/watch?v=NfuO66wsuRg, and extends it with explicit joints and limits.
  
